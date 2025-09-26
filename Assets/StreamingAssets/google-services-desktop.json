@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286913437384",
+    "project_id": "game3d-hero",
+    "storage_bucket": "game3d-hero.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286913437384:android:01c87e9ddb3e2de32d8ffd",
+        "android_client_info": {
+          "package_name": "com.HoangAnhLapGameDev.Game3DHero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVcYgfOErO0oQ606ou6BPdHXUkoBOJSp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
